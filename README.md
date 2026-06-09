@@ -337,18 +337,6 @@ Errors are propagated to the ViewModel and displayed in the user interface.
 
 ![img.png](img.png)
 
-### Home Screen
-
-```text
-assets/screenshots/home.png
-```
-
-### Product Details
-
-```text
-assets/screenshots/details.png
-```
-
 ---
 
 ## Educational Purpose
