@@ -10,7 +10,7 @@ class StoreViewModel extends ChangeNotifier {
 
   StoreViewModel(this.getStoreUseCase);
 
-  Future<void> loadPokemons() async {
+  Future<void> loadProducts() async {
     loading = true;
     notifyListeners();
 

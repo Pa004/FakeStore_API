@@ -12,7 +12,7 @@ class HomePageState extends State<HomePage>{
   void initState() {
     super.initState();
 
-    Future.microtask(() => Provider.of<StoreViewModel>(context, listen: false).loadPokemons());
+    Future.microtask(() => Provider.of<StoreViewModel>(context, listen: false).loadProducts());
   }
 
   @override
